@@ -1,109 +1,206 @@
 # Cloud Engineering Portfolio
 
-A curated portfolio showcasing cloud engineering, platform engineering, DevOps, Site Reliability Engineering (SRE), Infrastructure as Code, and AI-powered enterprise platforms.
+A curated portfolio of Cloud Engineering, Platform Engineering, DevOps, SRE, DevSecOps, FinOps, and AI-enabled infrastructure platforms.
+
+Built around a platform-first engineering approach: designing systems that automate operations, improve reliability, enhance security, and enable intelligent decision-making.
 
 ---
 
-# Enterprise Platform Ecosystem
+# Featured Platforms
 
-| Platform | Purpose |
-|----------|---------|
-| Agentic Control Plane (ACP) | AI orchestration platform powering enterprise agents and workflows |
-| AI DevOps Platform | Intelligent CI/CD, deployments, monitoring, and incident automation |
-| Cloud Governance Platform | Compliance, policy enforcement, and cloud governance |
-| Cloud FinOps Platform | Cost optimization, forecasting, and financial operations |
-| Cloud SecOps Platform | Security operations, vulnerability management, and compliance |
-| Enterprise Knowledge Platform | Enterprise search, knowledge management, and recommendations |
-| Enterprise Automation Platform | Workflow orchestration and enterprise automation |
-| Enterprise Intelligence Platform | Analytics, forecasting, anomaly detection, and executive insights |
+## 🤖 Agentic & AI Platforms
 
----
+### Agentic Control Plane (ACP)
 
-# Supporting Cloud Projects
+An AI-powered orchestration foundation for enterprise automation.
 
-- AWS Cloud Automation
-- AWS Cloud Observability
-- AWS Cloud Security
-- AWS Event-Driven Architecture
-- AWS FinOps Cost Optimization
-- AWS Serverless Application
-- AWS EKS Kubernetes Deployment
-- Terraform AWS ECS Infrastructure
-- Cloud Incident Agent
-- CloudOps AI
+Capabilities:
+- Agent lifecycle management
+- Intelligent workflow orchestration
+- Autonomous task execution
+- Memory and knowledge services
+- Enterprise tool integration framework
+
+Repository:
+https://github.com/Rebs707/agentic-control-plane
+
 
 ---
 
-# Technology Stack
+### AI DevOps Platform
 
-### Cloud
+Autonomous DevOps operations platform.
+
+Capabilities:
+- CI/CD automation
+- Deployment intelligence
+- Incident workflows
+- Monitoring automation
+- Kubernetes and cloud operations
+
+Repository:
+https://github.com/Rebs707/ai-devops-platform
+
+
+---
+
+## ☁️ Cloud Platform Engineering
+
+### Cloud Governance Platform
+
+Enterprise cloud governance and compliance automation.
+
+Capabilities:
+- Resource governance
+- Compliance analysis
+- Policy automation
+- Cloud scanning workflows
+
+Repository:
+https://github.com/Rebs707/cloud-governance-platform
+
+
+---
+
+### Cloud FinOps Platform
+
+Cloud cost intelligence and optimization platform.
+
+Capabilities:
+- Cost analysis
+- Budget monitoring
+- Forecasting
+- Optimization recommendations
+
+Repository:
+https://github.com/Rebs707/cloud-finops-platform
+
+
+---
+
+### CloudSecOps Platform
+
+Security automation and cloud protection platform.
+
+Capabilities:
+- Security scanning
+- Threat detection
+- Vulnerability analysis
+- Compliance workflows
+
+Repository:
+https://github.com/Rebs707/cloud-secops-platform
+
+
+---
+
+## 🏢 Enterprise Intelligence Platforms
+
+### Enterprise Knowledge Platform
+
+AI-powered enterprise knowledge discovery platform.
+
+Capabilities:
+- Knowledge management
+- Intelligent search
+- Document processing
+- Knowledge workflows
+
+Repository:
+https://github.com/Rebs707/enterprise-knowledge-platform
+
+
+---
+
+### Enterprise Automation Platform
+
+Intelligent workflow automation platform.
+
+Capabilities:
+- Workflow orchestration
+- Task automation
+- Execution agents
+- Business process automation
+
+Repository:
+https://github.com/Rebs707/enterprise-automation-platform
+
+
+---
+
+### Enterprise Intelligence Platform
+
+AI-driven analytics and decision intelligence platform.
+
+Capabilities:
+- Data insights
+- Forecasting
+- Anomaly detection
+- Intelligence workflows
+
+Repository:
+https://github.com/Rebs707/enterprise-intelligence-platform
+
+
+---
+
+# Core Technology Stack
+
+## Cloud
 - AWS
+- EC2
+- ECS
+- EKS
+- Lambda
+- S3
+- IAM
+- CloudWatch
 
-### Infrastructure as Code
+## Infrastructure as Code
 - Terraform
 
-### Containers
+## Containers & Orchestration
 - Docker
 - Kubernetes
-- Amazon ECS
 
-### DevOps
-- Git
+## DevOps
 - GitHub Actions
 - CI/CD
+- Jenkins
+- Automation workflows
 
-### Programming
-- Python
-- Bash
-- Go
-
-### APIs & Frameworks
-- FastAPI
-
-### AI & Automation
-- Agentic AI
-- Multi-Agent Systems
-- Workflow Automation
-
-### Observability
+## Observability
 - Prometheus
 - Grafana
 
----
+## Security
+- DevSecOps
+- Vulnerability scanning
+- Policy automation
 
-# Portfolio Highlights
+## AI Engineering
+- Agentic workflows
+- LLM integrations
+- Knowledge systems
+- Multi-agent architectures
 
-- Enterprise-scale platform engineering
-- Cloud-native architectures
-- AI-powered automation
-- Infrastructure as Code
-- Dockerized applications
-- Automated testing
-- Modular project design
-- Production-ready repository structure
-
----
-
-# Repository Structure
-
-```
-Cloud Engineering Portfolio
-│
-├── Enterprise Platforms
-│   ├── Agentic Control Plane
-│   ├── AI DevOps Platform
-│   ├── Cloud Governance Platform
-│   ├── Cloud FinOps Platform
-│   ├── Cloud SecOps Platform
-│   ├── Enterprise Knowledge Platform
-│   ├── Enterprise Automation Platform
-│   └── Enterprise Intelligence Platform
-│
-└── Supporting AWS Projects
-```
 
 ---
 
-# License
+# Engineering Philosophy
 
-MIT License
+Build platforms, not scripts.
+
+Automate repetitive operations.
+
+Design systems that scale beyond individual contributors.
+
+Combine cloud engineering discipline, platform thinking, and AI-driven automation to create intelligent enterprise platforms.
+
+
+---
+
+# Architecture Approach
+
+Every platform follows a structured engineering approach combining architecture discipline, automation, and AI-driven intelligence.
+

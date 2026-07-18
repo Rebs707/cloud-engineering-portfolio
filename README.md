@@ -22,7 +22,7 @@ Capabilities:
 - Enterprise tool integration framework
 
 Repository:
-https://github.com/Rebs707/agentic-control-plane
+[Agentic Control Plane](https://github.com/Rebs707/agentic-control-plane)
 
 
 ---
@@ -39,7 +39,7 @@ Capabilities:
 - Kubernetes and cloud operations
 
 Repository:
-https://github.com/Rebs707/ai-devops-platform
+[AI DevOps Platform](https://github.com/Rebs707/ai-devops-platform)
 
 
 ---
@@ -57,7 +57,7 @@ Capabilities:
 - Cloud scanning workflows
 
 Repository:
-https://github.com/Rebs707/cloud-governance-platform
+[Cloud Governance Platform](https://github.com/Rebs707/cloud-governance-platform)
 
 
 ---
@@ -73,7 +73,7 @@ Capabilities:
 - Optimization recommendations
 
 Repository:
-https://github.com/Rebs707/cloud-finops-platform
+[Cloud FinOps Platform](https://github.com/Rebs707/cloud-finops-platform)
 
 
 ---
@@ -89,7 +89,7 @@ Capabilities:
 - Compliance workflows
 
 Repository:
-https://github.com/Rebs707/cloud-secops-platform
+[CloudSecOps Platform](https://github.com/Rebs707/cloud-secops-platform)
 
 
 ---
@@ -107,7 +107,7 @@ Capabilities:
 - Knowledge workflows
 
 Repository:
-https://github.com/Rebs707/enterprise-knowledge-platform
+[Enterprise Knowledge Platform](https://github.com/Rebs707/enterprise-knowledge-platform)
 
 
 ---
@@ -123,7 +123,7 @@ Capabilities:
 - Business process automation
 
 Repository:
-https://github.com/Rebs707/enterprise-automation-platform
+[Enterprise Automation Platform](https://github.com/Rebs707/enterprise-automation-platform)
 
 
 ---
@@ -139,7 +139,7 @@ Capabilities:
 - Intelligence workflows
 
 Repository:
-https://github.com/Rebs707/enterprise-intelligence-platform
+[Enterprise Intelligence Platform](https://github.com/Rebs707/enterprise-intelligence-platform)
 
 
 ---
@@ -203,4 +203,20 @@ Combine cloud engineering discipline, platform thinking, and AI-driven automatio
 # Architecture Approach
 
 Every platform follows a structured engineering approach combining architecture discipline, automation, and AI-driven intelligence.
+
+```text
+Design
+  |
+Architecture
+  |
+Implementation
+  |
+Testing
+  |
+Containerization
+  |
+Documentation
+  |
+Deployment Ready
+```
 
